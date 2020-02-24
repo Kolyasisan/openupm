@@ -1,0 +1,14 @@
+name: com.kolyasisan.coreupdatemanager
+displayName: Core Update Manager
+description: A Performant Update Manager for Unity
+repoUrl: 'https://github.com/Kolyasisan/Core-Update-Manager'
+parentRepoUrl: null
+licenseSpdxId: null
+licenseName: Beerware
+topics:
+  - library
+hunter: Kolyasisan
+gitTagPrefix: ''
+gitTagIgnore: ''
+image: null
+createdAt: 1582573067525
